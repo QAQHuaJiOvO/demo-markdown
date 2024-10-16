@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-base: "/demo-markdown/"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [["link", { rel: "icon", base: "/demo-markdown/", href: "/Vue.png" }]],
+  base: "/demo-markdown/",
+  head: [["link", { rel: "icon", href: "/demo-markdown/Vue.png" }]],
   title: "Vue.js",
   description: "A VitePress Site",
   themeConfig: {
