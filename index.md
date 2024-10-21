@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "渐进式"
+  name: "渐进式之第五人格"
   text: "JavaScript 框架"
   tagline: 易学易用，性能出色，适用场景丰富的 Web 前端框架
   actions:
